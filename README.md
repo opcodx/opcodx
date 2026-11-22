@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> About OPCODX
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://opcodx.com/brand/opcodx-emblem-dark.svg"><img src="https://opcodx.com/brand/opcodx-emblem-light.svg" width="24" alt=""></picture> About OPCODX
 
 **OPCODX** is an independent technology brand focused on cybersecurity, secure software engineering, infrastructure technologies, and intelligent automation.
 
@@ -33,7 +33,7 @@ We bring together security-oriented thinking and modern engineering practices to
 
 ---
 
-## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> Core Focus Areas
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://opcodx.com/brand/opcodx-emblem-dark.svg"><img src="https://opcodx.com/brand/opcodx-emblem-light.svg" width="24" alt=""></picture> Core Focus Areas
 
 | Area | Technical Focus |
 | --- | --- |
@@ -46,7 +46,7 @@ We bring together security-oriented thinking and modern engineering practices to
 
 ---
 
-## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> Technologies & Tools
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://opcodx.com/brand/opcodx-emblem-dark.svg"><img src="https://opcodx.com/brand/opcodx-emblem-light.svg" width="24" alt=""></picture> Technologies & Tools
 
 <div align="center">
 
@@ -87,7 +87,7 @@ We bring together security-oriented thinking and modern engineering practices to
 
 ---
 
-## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> Research & Technical Interests
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://opcodx.com/brand/opcodx-emblem-dark.svg"><img src="https://opcodx.com/brand/opcodx-emblem-light.svg" width="24" alt=""></picture> Research & Technical Interests
 
 OPCODX explores technologies and engineering approaches across several interconnected disciplines.
 
@@ -114,7 +114,7 @@ OPCODX explores technologies and engineering approaches across several interconn
 
 ---
 
-## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> Open Source & Collaboration
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://opcodx.com/brand/opcodx-emblem-dark.svg"><img src="https://opcodx.com/brand/opcodx-emblem-light.svg" width="24" alt=""></picture> Open Source & Collaboration
 
 We believe open-source software plays an important role in advancing technology through transparency, collaboration, and shared learning.
 
@@ -132,7 +132,7 @@ As public projects and resources become available, they will be highlighted thro
 
 ---
 
-## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> GitHub Activity
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://opcodx.com/brand/opcodx-emblem-dark.svg"><img src="https://opcodx.com/brand/opcodx-emblem-light.svg" width="24" alt=""></picture> GitHub Activity
 
 <div align="center">
 
@@ -147,7 +147,7 @@ As public projects and resources become available, they will be highlighted thro
 
 ---
 
-## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> Connect With OPCODX
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://opcodx.com/brand/opcodx-emblem-dark.svg"><img src="https://opcodx.com/brand/opcodx-emblem-light.svg" width="24" alt=""></picture> Connect With OPCODX
 
 Explore our technical interests, follow future projects, and connect through our official channels.
 
@@ -157,7 +157,7 @@ Explore our technical interests, follow future projects, and connect through our
 
 ---
 
-<div align="center"><img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="64" alt="OPCODX Emblem">
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://opcodx.com/brand/opcodx-emblem-dark.svg"><img src="https://opcodx.com/brand/opcodx-emblem-light.svg" width="64" alt="OPCODX Emblem"></picture>
 
 ### OPCODX
 
