@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About OPCODX
+## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> About OPCODX
 
 **OPCODX** is an independent technology brand focused on cybersecurity, secure software engineering, infrastructure technologies, and intelligent automation.
 
@@ -33,7 +33,7 @@ We bring together security-oriented thinking and modern engineering practices to
 
 ---
 
-## 🛡️ Core Focus Areas
+## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> Core Focus Areas
 
 | Area | Technical Focus |
 | --- | --- |
@@ -46,7 +46,7 @@ We bring together security-oriented thinking and modern engineering practices to
 
 ---
 
-## 💻 Technologies & Tools
+## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> Technologies & Tools
 
 <div align="center">
 
@@ -87,7 +87,7 @@ We bring together security-oriented thinking and modern engineering practices to
 
 ---
 
-## 🔬 Research & Technical Interests
+## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> Research & Technical Interests
 
 OPCODX explores technologies and engineering approaches across several interconnected disciplines.
 
@@ -114,7 +114,7 @@ OPCODX explores technologies and engineering approaches across several interconn
 
 ---
 
-## 🌍 Open Source & Collaboration
+## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> Open Source & Collaboration
 
 We believe open-source software plays an important role in advancing technology through transparency, collaboration, and shared learning.
 
@@ -132,7 +132,7 @@ As public projects and resources become available, they will be highlighted thro
 
 ---
 
-## 📊 GitHub Activity
+## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> GitHub Activity
 
 <div align="center">
 
@@ -147,7 +147,7 @@ As public projects and resources become available, they will be highlighted thro
 
 ---
 
-## 🤝 Connect With OPCODX
+## <img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="24" alt=""> Connect With OPCODX
 
 Explore our technical interests, follow future projects, and connect through our official channels.
 
@@ -157,7 +157,7 @@ Explore our technical interests, follow future projects, and connect through our
 
 ---
 
-<div align="center">
+<div align="center"><img src="https://opcodx.com/brand/opcodx-emblem-dark.svg" width="64" alt="OPCODX Emblem">
 
 ### OPCODX
 
